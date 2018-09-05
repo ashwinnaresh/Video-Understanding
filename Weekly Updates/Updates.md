@@ -10,6 +10,6 @@ An initial topic analysis of the videos in the How-To dataset was done using the
 
 Member | Upcoming Tasks 
 ------ | ---------------
-Arvind | <ul>Get similar dissimilar videos clustered<li>Analyze topic distribution</li><li>Get similar videos based on empirical threshold</li><li>Reduce the empirical threshold to get dissimilar videos</li></ul>
-Ashwin | <ul>Get summarization baselines up and running<li>Setup environment</li><li>OpenNMT baseline for summarizing 2 videos based on transcription</li><li>Stretch goal: Experiment with action features along with text for summarization</li></ul>
-Madhura | <ul>Time alignment of transcriptions of video pairs:<li>Literature survey</li><li>Implementation of simple techniques like n-gram overlap, LCS</li><li>Stretch goal : DTW</li></ul>
+Arvind | Get similar dissimilar videos clustered:<ul><li>Analyze topic distribution</li><li>Get similar videos based on empirical threshold</li><li>Reduce the empirical threshold to get dissimilar videos</li></ul>
+Ashwin | Get summarization baselines up and running:<ul><li>Setup environment</li><li>OpenNMT baseline for summarizing 2 videos based on transcription</li><li>Stretch goal: Experiment with action features along with text for summarization</li></ul>
+Madhura | Time alignment of transcriptions of video pairs:<ul><li>Literature survey</li><li>Implementation of simple techniques like n-gram overlap, LCS</li><li>Stretch goal : DTW</li></ul>
